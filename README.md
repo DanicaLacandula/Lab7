@@ -1,5 +1,4 @@
-# Lab7
-# Document Prototype Design Pattern
+# Lab7 Document Prototype Design Pattern
 
 A Java implementation of the **Prototype** creational design pattern applied to a document management system.
 
